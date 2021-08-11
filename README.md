@@ -2,7 +2,7 @@
 
 The purpose of this project is to demonstrate how to integrate the [`swagger-ui` NPM](https://www.npmjs.com/package/swagger-ui) package to render Swagger/Open API specs in Gatsby.
 
-This project binds to the PetStore API.
+This project binds to the [PetStore API](https://petstore.swagger.io/v2/swagger.json).
 
 ## Assumptions
 
