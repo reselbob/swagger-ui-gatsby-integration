@@ -33,7 +33,7 @@ So see how the PetStore API is bound to the project, look at the page, [`./src/p
 
 ![UI01](./images/ui-01.png)
 
-If you want to experiment with importing an external Swagger/OpenAPI Spec from another source, substitute this code into `/src/pages/index.js`.
+If you want to experiment with importing an external Swagger/OpenAPI Spec from another source, substitute this code into [`/src/pages/index.js`](/src/pages/index.js).
 
 ```
 import React, { useEffect, useRef } from "react";
