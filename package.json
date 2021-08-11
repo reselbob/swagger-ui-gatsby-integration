@@ -1,0 +1,27 @@
+{
+  "name": "swagger_ui_gatsby_integration",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A project that demonstrates how to integrate the swagger-ui npm package with Gatsby",
+  "author": "ekiilu",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@loadable/component": "^5.15.0",
+    "buffer": "^6.0.3",
+    "gatsby": "^3.10.2",
+    "path-browserify": "^1.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "swagger-ui": "^3.51.2",
+    "swagger-ui-react": "3.51.2"
+  }
+}
