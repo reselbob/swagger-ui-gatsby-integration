@@ -1,4 +1,4 @@
-#Integrating `swagger-ui` with Gatsby.
+# Integrating `swagger-ui` with Gatsby.
 
 The purpose of this project is to demonstrate how to integrate the [`swagger-ui` NPM](https://www.npmjs.com/package/swagger-ui) package to render Swagger/Open API specs in Gatsby.
 
